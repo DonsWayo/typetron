@@ -8,7 +8,7 @@
 ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/DonsWayo/typetron/react)
 ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/DonsWayo/typetron/redux)
 
-### A Boilerplate for an Easy Start with TypeScript, React, Redux, and Electron.
+### A Boilerplate for an Easy Start with TypeScript React Redux Redux logger and Electron.
 
 
 ## Install
