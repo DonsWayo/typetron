@@ -1,5 +1,13 @@
 # typetron
 
+![David](https://img.shields.io/david/dev/DonsWayo/typetron)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DonsWayo/typetron)
+![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/DonsWayo/typetron/dev/electron)
+![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/DonsWayo/typetron/dev/webpack)
+![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/DonsWayo/typetron/dev/typescript)
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/DonsWayo/typetron/react)
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/DonsWayo/typetron/redux)
+
 ### A Boilerplate for an Easy Start with TypeScript, React, Redux, and Electron.
 
 
