@@ -65,7 +65,6 @@
     "@types/react": "16.9.1",
     "@types/react-dom": "16.8.5",
     "@types/react-hot-loader": "4.1.0",
-    "@types/react-redux": "7.1.1",
     "@types/webdriverio": "5.0.0",
     "@types/webpack-env": "1.14.0",
     "babel-loader": "8.0.6",
@@ -89,12 +88,8 @@
     "webpack-merge": "4.2.1"
   },
   "dependencies": {
-    "@types/redux-logger": "3.0.7",
     "fork-ts-checker-webpack-plugin": "1.5.0",
     "react": "16.9.0",
-    "react-dom": "16.9.0",
-    "react-redux": "7.1.0",
-    "redux": "4.0.4",
-    "redux-logger": "3.0.6"
+    "react-dom": "16.9.0"
   }
 }
