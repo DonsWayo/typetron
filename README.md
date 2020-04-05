@@ -6,9 +6,9 @@
 ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/DonsWayo/typetron/dev/webpack)
 ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/DonsWayo/typetron/dev/typescript)
 ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/DonsWayo/typetron/react)
-![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/DonsWayo/typetron/redux)
 
-### A Boilerplate for an Easy Start with TypeScript React Redux Redux logger and Electron.
+
+### A Boilerplate for an Easy Start with TypeScript React and Electron.
 
 
 ## Install
