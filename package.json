@@ -75,7 +75,7 @@
     "file-loader": "6.0.0",
     "html-webpack-plugin": "4.0.4",
     "image-webpack-loader": "6.0.0",
-    "node-sass": "4.13.1",
+    "node-sass": "7.0.0",
     "react-hot-loader": "4.12.20",
     "sass-loader": "8.0.2",
     "source-map-loader": "0.2.4",
